@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chomphunut
 - 👀 I want to be a Developer.
-- 🌱 I’m currently learning  html and css.
+- 🌱 I’m currently learning  HTML, CSS and Linux
 
 
 <!---
